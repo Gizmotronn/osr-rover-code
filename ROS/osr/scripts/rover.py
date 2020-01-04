@@ -2,7 +2,7 @@
 import time
 from osr_msgs.msg import Joystick, Commands, Encoder
 import rospy
-from robot import Robot
+from robot import Robot # pip modules importing functions
 import message_filters
 
 
